@@ -19,7 +19,8 @@
   "author": "Alex Matchneer <machty@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "broccoli-asset-rev": "^2.7.0",
+    "@types/ember": "^2.8.3",
+    "broccoli-asset-rev": "^2.2.0",
     "broccoli-clean-css": "^1.1.0",
     "documentation": "^3.0.4",
     "ember-ajax": "3.0.0",
